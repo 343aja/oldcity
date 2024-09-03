@@ -1,0 +1,16 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Linear / Messages, Conversation  /  Letter">
+<path id="Vector" d="M2.66669 16.0002C2.66669 10.9718 2.66669 8.45769 4.22878 6.89559C5.79088 5.3335 8.30504 5.3335 13.3334 5.3335H18.6667C23.695 5.3335 26.2092 5.3335 27.7713 6.89559C29.3334 8.45769 29.3334 10.9718 29.3334 16.0002C29.3334 21.0285 29.3334 23.5426 27.7713 25.1047C26.2092 26.6668 23.695 26.6668 18.6667 26.6668H13.3334C8.30504 26.6668 5.79088 26.6668 4.22878 25.1047C2.66669 23.5426 2.66669 21.0285 2.66669 16.0002Z" stroke="url(#paint0_linear_22_157)" stroke-width="2"/>
+<path id="Vector_2" d="M8 10.6665L10.8785 13.0653C13.3274 15.106 14.5518 16.1263 16 16.1263C17.4482 16.1263 18.6726 15.106 21.1215 13.0653L24 10.6665" stroke="url(#paint1_linear_22_157)" stroke-width="2" stroke-linecap="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_22_157" x1="16" y1="-4.92291" x2="16" y2="33.3677" gradientUnits="userSpaceOnUse">
+<stop offset="0.140112" stop-color="#A0DAFB"/>
+<stop offset="1" stop-color="#0A8ED9"/>
+</linearGradient>
+<linearGradient id="paint1_linear_22_157" x1="16" y1="8.04158" x2="16" y2="17.8413" gradientUnits="userSpaceOnUse">
+<stop offset="0.140112" stop-color="#A0DAFB"/>
+<stop offset="1" stop-color="#0A8ED9"/>
+</linearGradient>
+</defs>
+</svg>

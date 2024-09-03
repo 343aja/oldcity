@@ -1,0 +1,45 @@
+.navbar {
+    background: #222;
+    color: #fff;
+    padding: 25px 0;
+}
+
+.navbar .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.logo {
+    font-size: 24px;
+    font-family: MonumentExtendedLight;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    font-family: Archivo;
+}
+
+.nav-links a:hover{
+    color: #a0dafb
+}
+
+.nav-links li {
+    margin-left: 20px;
+}
+
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.contact-button {
+    background: linear-gradient(180deg, #a0dafb 14.01%, #0a8ed9);
+    padding: 10px 32px;
+    font-size: 18px;
+    color: #fff;
+    font-family: Archivo;
+    border: none;
+    border-radius: 32px;
+}

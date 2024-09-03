@@ -1,0 +1,175 @@
+.leave-us-a {
+    align-self: stretch;
+    position: relative;
+    font-weight: 600;
+}
+.name {
+    position: relative;
+    opacity: 0.7;
+}
+.name-wrapper {
+    align-self: stretch;
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid #d1d1d6;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 376px 20px 20px;
+}
+.name-container {
+    align-self: stretch;
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid #d1d1d6;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 337px 20px 20px;
+}
+.name-frame {
+    align-self: stretch;
+    border-radius: 10px;
+    background-color: #fff;
+    border: 1px solid #d1d1d6;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 185px 136px 20px;
+}
+.instance-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+}
+.contact-us {
+    position: relative;
+    font-weight: 600;
+    background: none;
+    border: none;
+    color: white;
+    font-family: Archivo;
+}
+.contact-us-wrapper {
+    border-radius: 32px;
+    background: linear-gradient(180deg, #a0dafb 14.01%, #0a8ed9);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 20px 110px;
+    font-size: 18px;
+    color: #fff;
+}
+.framme-group {
+    width: 452px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 35px;
+}
+.linear-map-location-map {
+    width: 32px;
+    position: relative;
+    height: 32px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.westheimer-rd-santa {
+    position: relative;
+}
+.linear-map-location-map-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 15px;
+}
+.linear-messages-conversatio-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 15px;
+}
+.tmeqwertyuiferrtgf {
+    position: relative;
+    background: linear-gradient(180deg, #a0dafb 14.01%, #0a8ed9);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.linear-messages-conversatio-group {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+.frame-div {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 35px;
+}
+.fraame-child {
+    align-self: stretch;
+    position: relative;
+    border-radius: 15px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 221px;
+    flex-shrink: 0;
+    object-fit: cover;
+}
+.frame-container {
+    width: 462px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 33px;
+    color: #222;
+}
+.frame-parennt {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 154px;
+    font-size: 20px;
+    color: #444;
+}
+.leave-us-a-message-parent {
+    position: relative;
+    box-shadow: 0px 6px 24px rgba(0, 0, 0, 0.08);
+    border-radius: 24px;
+    background-color: #e5e7ec;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 35px 86px;
+    box-sizing: border-box;
+    gap: 20px;
+    text-align: left;
+    font-size: 24px;
+    color: #000;
+    font-family: Archivo;
+}
+
+.contact{
+    margin-top: 64px;
+}
+
